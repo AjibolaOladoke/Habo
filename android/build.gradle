@@ -1,0 +1,32 @@
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.buildDir = '../build'
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+subprojects {
+    afterEvaluate { project ->
+        if (project.hasProperty('android')) {
+            project.android.defaultConfig {
+                externalNativeBuild {
+                    cmake {
+                        arguments "-DCMAKE_SHARED_LINKER_FLAGS=-Wl,--build-id=none",
+                                  "-DCMAKE_MODULE_LINKER_FLAGS=-Wl,--build-id=none",
+                                  "-DCMAKE_EXE_LINKER_FLAGS=-Wl,--build-id=none"
+                    }
+                }
+            }
+        }
+    }
+    project.evaluationDependsOn(':app')
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}

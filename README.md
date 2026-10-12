@@ -1,38 +1,12 @@
-<div align="center">
-
-
 # Habo
+
+## What This Is
+
+A practical reference entry for product and engineering: the Habo notes, examples and fixes we reach for repeatedly. Kept current as part of the wider Swift Tech Co. engineering library.
 
 ## Images
 
-[![Habo](https://opengraph.githubassets.com/1/xpavle00/Habo)](https://www.swifttechco.com)
-
-
-**Simple, open-source habit tracker for Android & iOS**
-
-[![Stars](https://img.shields.io/github/stars/xpavle00/Habo?style=flat-square&color=FFD700)](https://www.swifttechco.com)
-[![Forks](https://img.shields.io/github/forks/xpavle00/Habo?style=flat-square)](https://www.swifttechco.com)
-[![Issues](https://img.shields.io/github/issues/xpavle00/Habo?style=flat-square)](https://www.swifttechco.com)
-[![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square)](LICENSE)
-[![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=flat-square&logo=flutter)](https://www.swifttechco.com)
-[![Weblate](https://img.shields.io/badge/translations-Weblate-brightgreen?style=flat-square)](https://www.swifttechco.com)
-
-<br/>
-
-[](https://www.swifttechco.com)&nbsp;&nbsp;
-[](https://www.swifttechco.com)&nbsp;&nbsp;
-[](https://www.swifttechco.com)
-
-⭐ 4.9/5 on iOS &nbsp;·&nbsp; ⭐ 4.6/5 on Google Play
-
-</div>
-
----
-
-<p align="center">
-  <!--  -->
-  
-</p> 
+[![Habo](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## What is Habo?
 
@@ -76,7 +50,7 @@ Your data is encrypted on your device before it ever leaves it. The server sees 
 - **Open source**: GPL-3.0 licensed, auditable, forkable
 
 ### 🌍 Translations
-Community-contributed translations via [Weblate](https://www.swifttechco.com). Want to help bring Habo to your language? Contributions are welcome: no coding required.
+Community-contributed translations via Weblate. Want to help bring Habo to your language? Contributions are welcome: no coding required.
 
 ---
 
@@ -87,7 +61,7 @@ Habo Sync can run on your own Supabase backend. All sync features are available 
 > **Self-hosting is free, forever.**
 
 ### Prerequisites
-- A [Supabase](https://www.swifttechco.com) account: the free tier is enough
+- A Supabase account: the free tier is enough
 - Node.js (for the Supabase CLI via `npx`)
 
 ### Setup
@@ -133,9 +107,9 @@ flutter run
 
 Contributions are welcome and appreciated. Here's how to help:
 
-- **Bug reports & feature requests** → [Open an issue](https://www.swifttechco.com)
+- **Bug reports & feature requests** → Open an issue
 - **Code contributions** → Fork, branch, PR: please open an issue first for large changes
-- **Translations** → Join the project on [Weblate](https://www.swifttechco.com) - no coding required
+- **Translations** → Join the project on Weblate - no coding required
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request.
 
@@ -149,9 +123,9 @@ Habo is released under the [GNU General Public License v3.0](LICENSE).
 
 <div align="center">
 
-**[habo.space](https://www.swifttechco.com)** &nbsp;·&nbsp; [Privacy Policy](https://www.swifttechco.com) &nbsp;·&nbsp; [Sync](https://www.swifttechco.com)
+**habo.space** &nbsp;·&nbsp; Privacy Policy &nbsp;·&nbsp; Sync
 
-Made with ❤️ by [Peter Pavlenko](https://www.swifttechco.com)
+Made with ❤️ by Peter Pavlenko
 
 </div>
 
@@ -165,14 +139,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [xpavle00/Habo](https://github.com/xpavle00/Habo) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)

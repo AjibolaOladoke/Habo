@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the Habo notes, example
 
 ## Images
 
-[![Habo](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![Habo](images/preview.png)](https://github.com/Swift-Tech-Co/Habo)
 
 ## What is Habo?
 
@@ -68,7 +68,7 @@ Habo Sync can run on your own Supabase backend. All sync features are available 
 
 ```bash
 # 1. Clone the repo
-git clone https://www.swifttechco.com
+git clone https://github.com/Swift-Tech-Co/Habo
 cd Habo
 
 # 2. Link to your Supabase project
@@ -95,7 +95,7 @@ Then in the Habo app: **Settings → Server**, paste your Supabase Project URL a
 - Android Studio or Xcode for device targets
 
 ```bash
-git clone https://www.swifttechco.com
+git clone https://github.com/Swift-Tech-Co/Habo
 cd Habo
 flutter pub get
 flutter run
@@ -143,13 +143,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/Habo
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [xpavle00/Habo](https://github.com/xpavle00/Habo) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
